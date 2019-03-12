@@ -11,10 +11,25 @@ L’outil _Rechercher des avantages et des services_ sera régulièrement mis à
 Le format de cette page s’inspire de celui de [Tenez un changelog](https://keepachangelog.com/fr/1.0.0/). Nous ne suivons pas les règles de la [gestion sémantique de version](https://semver.org/lang/fr/) pour ce produit.
 
 ## Fonctionnalités non intégrées
-* Modification de l’IU de l’appli pour la rendre conforme à la présentation du site veterans.gc.ca.
-* Remplacement de la page affichant le récapitulatif des sélections par une animation à chargement rapide, de sorte que les utilisateurs obtiennent leurs résultats plus rapidement.
-* Ajout de contenu à la liste sauvegardée, afin que les utilisateurs puissent en comprendre la fonction et les limites.
-* Modification des chemins d’admissibilité relatifs à certaines fiches d’avantages.
+* En-tête et pied de page qui correspondent à veterans.gc.ca
+
+## 2019-02-28
+### Changé
+* L’aspect et la convivialité de l’application correspondent maintenant au nouveau site Web d’ACC.
+* Les exemples dans les fiches d’avantages, l’admissibilité aux prestations supplémentaires et le lien vers la page du programme ne sont plus enfouis sous la rubrique « En savoir plus ».
+* Le langage associé aux prochaines étapes des dossiers de santé est indépendant du chemin d’accès de l’utilisateur.
+
+### Corrigé
+* Les adresses URL qui ne fonctionnent plus par suite de la mise à jour du site Web d’ACC
+* TTraduction du contenu de certaines fiches d’avantages
+* Un bogue qui cause une défaillance lorsqu’on clique sur « Afficher les résultats » après avoir effectué les sélections dans Internet Explorer
+* Un bogue qui provoque l’agrandissement automatique de toutes les fiches d’avantages lorsque l’utilisateur obtient ses résultats dans Internet Explorer
+* La fonction « Copier le raccourci » fonctionne systématiquement.
+* L’impression à partir de la liste sauvegardée imprime les sélections sauvegardées seulement.
+
+### Enlevé
+* La page de résumé qui confirme les sélections des utilisateurs avant d’afficher les résultats (les utilisateurs sont maintenant dirigés directement vers leurs résultats)
+* Fonction permettant aux utilisateurs de trouver le bureau d’ACC le plus près (l’application dirige maintenant les utilisateurs vers la page « Contactez-nous » d’ACC)
 
 ## 2019-02-15
 ### Ajouté
