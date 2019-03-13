@@ -15,17 +15,17 @@ Le format de cette page s’inspire de celui de [Tenez un changelog](https://kee
 
 ## 2019-02-28
 ### Changé
-* L’aspect et la convivialité de l’application correspondent maintenant au nouveau site Web d’ACC.
-* Les exemples dans les fiches d’avantages, l’admissibilité aux prestations supplémentaires et le lien vers la page du programme ne sont plus enfouis sous la rubrique « En savoir plus ».
-* Le langage associé aux prochaines étapes des dossiers de santé est indépendant du chemin d’accès de l’utilisateur.
+* L’aspect et la convivialité de l’application correspondent maintenant au nouveau site Web d’ACC
+* Les exemples dans les fiches d’avantages, l’admissibilité aux prestations supplémentaires et le lien vers la page du programme ne sont plus enfouis sous la rubrique « En savoir plus »
+* Le langage associé aux prochaines étapes des dossiers de santé est indépendant du chemin d’accès de l’utilisateu
 
 ### Corrigé
 * Les adresses URL qui ne fonctionnent plus par suite de la mise à jour du site Web d’ACC
-* TTraduction du contenu de certaines fiches d’avantages
+* Traduction du contenu de certaines fiches d’avantages
 * Un bogue qui cause une défaillance lorsqu’on clique sur « Afficher les résultats » après avoir effectué les sélections dans Internet Explorer
 * Un bogue qui provoque l’agrandissement automatique de toutes les fiches d’avantages lorsque l’utilisateur obtient ses résultats dans Internet Explorer
-* La fonction « Copier le raccourci » fonctionne systématiquement.
-* L’impression à partir de la liste sauvegardée imprime les sélections sauvegardées seulement.
+* La fonction « Copier le raccourci » fonctionne systématiquement
+* L’impression à partir de la liste sauvegardée imprime les sélections sauvegardées seulement
 
 ### Enlevé
 * La page de résumé qui confirme les sélections des utilisateurs avant d’afficher les résultats (les utilisateurs sont maintenant dirigés directement vers leurs résultats)
