@@ -11,7 +11,9 @@ L’outil _Rechercher des avantages et des services_ sera régulièrement mis à
 Le format de cette page s’inspire de celui de [Tenez un changelog](https://keepachangelog.com/fr/1.0.0/). Nous ne suivons pas les règles de la [gestion sémantique de version](https://semver.org/lang/fr/) pour ce produit.
 
 ## Fonctionnalités non intégrées
-* En-tête et pied de page qui correspondent à veterans.gc.ca
+* Ajout de contenu à la liste sauvegardée, afin que les utilisateurs puissent en comprendre la fonction et les limites.
+* Modification des chemins d’admissibilité relatifs à certaines fiches d’avantages.
+* En-tête et pied de page qui correspondent à veterans.gc.ca.
 
 ## 2019-02-28
 ### Changé
