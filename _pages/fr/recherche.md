@@ -22,8 +22,6 @@ La Direction des services en ligne à ACC a lancé un projet visant à ajouter u
 
 ## Principaux utilisateurs
 
-
-
 *   Vétérans, militaires toujours actifs et membres des familles des vétérans
 *   Personnel de première ligne d’ACC
     *   Agents des centres d’appels
@@ -239,9 +237,9 @@ Cette recherche a permis de constater que le personnel d’ACC dans l’ensemble
 
 Les vétérans plus jeunes de l’ère moderne peuvent ne pas s’identifier comme « vétérans »
 
-[Traduction] _« Beaucoup d’entre eux ne croient pas qu’ils puissent demander des avantages, comme les réservistes, des gens qui n’ont jamais été déployés. » _– Membre du personnel_ _de la Légion royale canadienne.
+[Traduction] _« Beaucoup d’entre eux ne croient pas qu’ils puissent demander des avantages, comme les réservistes, des gens qui n’ont jamais été déployés. »_ – Membre du personnel de la Légion royale canadienne.
 
-**La Légion royale **canadienne est un organisme canadien sans but lucratif au service des anciens militaires (organisation d’vétérans).
+La Légion royale canadienne est un organisme canadien sans but lucratif au service des anciens militaires (organisation d’vétérans).
 
 **2. L’admissibilité aux avantages n’est pas bien comprise**
 
@@ -263,21 +261,21 @@ Toute solution à ces problèmes doit s’appuyer sur des initiatives antérieur
 
 Cette conclusion confirme une autre constatation établie selon laquelle il faut accroître la sensibilisation aux services offerts par ACC. Selon la recherche, la plupart des vétérans connaissent seulement 3 ou 4 avantages sur plus de 40 avantages disponibles. Il y a beaucoup de vétérans qui ont besoin des services d’ACC, mais qui n’y ont pas accès à l’heure actuelle.
 
-[Traduction] _« Mon ACC est excellent, mais beaucoup de gens ne le savent pas » – _Ancien militaire et membre actuel du personnel d’ACC parlant du portail de libre-service en ligne Mon ACC.
+[Traduction] _« Mon ACC est excellent, mais beaucoup de gens ne le savent pas »_ - Ancien militaire et membre actuel du personnel d’ACC parlant du portail de libre-service en ligne Mon ACC.
 
 **5. Les vétérans ont besoin d’un point d’accès central pour les renseignements sur les avantages**
 
 Il peut être difficile d’analyser tous les renseignements et déterminer ceux qui sont réellement utiles. Il y a une foule d’outils, mais les renseignements sont fragmentés et ne sont pas à jour dans bien des cas. Trop de renseignements peuvent devenus aussi problématiques que peu de renseignements.
 
-[Traduction] _« Ça peut vous prendre une demi-heure, vous pouvez manquer quelque chose. » _– Agent d’un centre d’appel d’ACC
+[Traduction] _« Ça peut vous prendre une demi-heure, vous pouvez manquer quelque chose. »_ – Agent d’un centre d’appel d’ACC
 
-[Traduction] _« Nous avons assez d’outils. Ils ne suffisent pas vraiment et sont parfois désuets » _– Membre du personnel de première ligne d’ACC
+[Traduction] _« Nous avons assez d’outils. Ils ne suffisent pas vraiment et sont parfois désuets »_ – Membre du personnel de première ligne d’ACC
 
 **6. Absence de renvois vers des renseignements pertinents et utiles**
 
 En règle générale, le centre d’appels n’assure pas un suivi d’une demande de renseignements d’un vétéran ou n’indique pas une référence. Par exemple, envoyer un courriel contenant un lien vers une page pertinente du site Web. Le Navigateur des avantages ne permet pas aux vétérans de sauvegarder des renseignements ou de les communiquer à des amis ou à la famille ou leurs gestionnaires de cas.
 
-[Traduction] _« Ce que nous voulons leur donner, ce sont des renseignements sélectionnés et utiles » – _Membre du personnel d’ACC
+[Traduction] _« Ce que nous voulons leur donner, ce sont des renseignements sélectionnés et utiles »_ - Membre du personnel d’ACC
 
 **7. Les vétérans ont besoin d’un moyen facile pour déterminer les avantages qui sont pertinents pour eux**
 
@@ -289,7 +287,7 @@ Le site Web actuel d’ACC ne permet pas à l’utilisateur de trouver le conten
 
 Il semble que des initiatives parallèles sont en cours à ACC afin de collaborer et partager des priorités. Pour répondre aux besoins des vétérans, des besoins médicaux ou autres, les vétérans peuvent devoir combiner des avantages offerts par ACC, les FAC, le RARM (Régime d’assurance-revenu militaire) et d’autres avantages offerts par des organisations gouvernementales.
 
-[Traduction] _« Le plus grand problème est nous devons centraliser l’équipe d’utilisation. » – _Membre du personnel de la Direction de la recherche d’ACC
+[Traduction] _« Le plus grand problème est nous devons centraliser l’équipe d’utilisation. »_ – Membre du personnel de la Direction de la recherche d’ACC
 
 
 ## Méthodologie
@@ -297,8 +295,6 @@ Il semble que des initiatives parallèles sont en cours à ACC afin de collabore
 **Recherche au bureau**
 
 Nous avons analysé la recherche réalisée par ACC et d’autres organisations sur les thèmes suivants : 
-
-
 
 *   Vétérans au Canada;
 *   Avantages et services offerts par ACC
@@ -313,8 +309,6 @@ Afin d’obtenir des connaissances approfondies sur les membres du personnel int
 
 Afin de mieux connaître ACC et les services qu’il offre, nous avons étudié :
 
-
-
 *   les rapports sur le rendement des services d’ACC;
 *   les documents énonçant la stratégie;
 *   les plans et les priorités du Ministère;
@@ -323,11 +317,7 @@ Afin de mieux connaître ACC et les services qu’il offre, nous avons étudié�
 
 Pour synthétiser tous ces renseignements, nous avons procédé à un exercice de cartographie à l’aide du « tableau de modèle opérationnel ». Le tableau du modèle opérationnel est une visualisation d’une page des opérations incluses dans le modèle opérationnel d’une organisation. (Pour en savoir plus, consultez ce lien : [https://strategyzer.com/canvas/business-model-canvas](https://strategyzer.com/canvas/business-model-canvas)) (en anglais).
 
-
-
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 
 <p style="text-align: right">
 Tableau du modèle opérationnel : Avantages offerts par ACC</p>
@@ -433,13 +423,13 @@ Des vétérans ont indiqué que lorsqu’ils se trouvent sur le site Web, ils on
 
 **4. Les améliorations du site Web ne sont pas suffisantes**
 
-Le [site Web d’ACC](https://www.veterans.gc.ca/fra)** **est souvent le premier point de service pour obtenir des renseignements au sujet des avantages offerts par ACC.** **Toutefois, des vétérans ont indiqué que des renseignements sur le site Web ne sont pas suffisants pour les aider à prendre une décision de demander un avantage. Étant donné que demander un avantage est une décision importante, ils aimeraient obtenir des renseignements qui conviennent à leur situation particulière. Certains vétérans demandent ces renseignements en téléphonant au centre d’appels pour obtenir des conseils particuliers ou en se rendant à un bureau régional pour rencontrer en personne un employé d’ACC.
+Le [site Web d’ACC](https://www.veterans.gc.ca/fra) est souvent le premier point de service pour obtenir des renseignements au sujet des avantages offerts par ACC. Toutefois, des vétérans ont indiqué que des renseignements sur le site Web ne sont pas suffisants pour les aider à prendre une décision de demander un avantage. Étant donné que demander un avantage est une décision importante, ils aimeraient obtenir des renseignements qui conviennent à leur situation particulière. Certains vétérans demandent ces renseignements en téléphonant au centre d’appels pour obtenir des conseils particuliers ou en se rendant à un bureau régional pour rencontrer en personne un employé d’ACC.
 
 **5. Manque de transparence**
 
 Des vétérans ont exprimé leur frustration concernant le manque de transparence du processus des avantages. Ils ont de nombreuses préoccupations concernant l’absence des renseignements importants qui pourraient les aider dans leur processus de prise de décision et établir des attentes réalistes, comme les délais d’attente et le nombre de formulaires à remplir.
 
-Méthodologie
+## Méthodologie
 
 **Recrutement des participants**
 
@@ -549,7 +539,7 @@ Pour certains vétérans, l’objectif était de mieux comprendre les avantages 
 
 Les vétérans s’attendaient à voir plus d’images et d’icônes pour mieux comprendre les renseignements. Le texte était trop descriptif de sorte qu’il était plus difficile de se rappeler tous les renseignements.
 
-Méthodologie
+## Méthodologie
 
 **Plan directeur de la conception des services**
 
