@@ -104,15 +104,11 @@ VAC serves a range of Veteran groups - from WWII Veterans to family and children
 
 VAC serves veteran groups based on types of 
 
-
-
 *   Service
 *   Organization
 *   Family members and caretakers of Veterans
 
 **Service Type** - a way to categorize military professionals based on their career (e.g. Canadian Armed Forces, World War Veteran, Korean War). These include
-
-
 
 *   Still-serving members of Canadian Armed Forces (CAF) or Royal Canadian Mounted Police (RCMP)
 *   Veterans of Modern-Day Conflicts from CAF or RCMP
@@ -120,8 +116,6 @@ VAC serves veteran groups based on types of
 *   Allied Veterans now living in Canada
 
 **Organization types**
-
-
 
 *   Canadian Armed Forces (includes the Navy, Army, Reserves, etc.)
 *   Royal Canadian Mounted Police (RCMP)
@@ -141,7 +135,7 @@ In fact, some former CAF members don’t even see themselves as Veterans. Vetera
 
 **Veterans Service Agent (VSA)**
 
-A Veterans Service Agent (VSA) takes full responsibility for the service needs of Veterans and their families,  and becomes their primary point of contact. A VSA analyzes a Veteran’s needs, coordinates and helps them navigate the VAC system to ensure that their needs are met.** **VSAs do not take on complex case files.
+A Veterans Service Agent (VSA) takes full responsibility for the service needs of Veterans and their families,  and becomes their primary point of contact. A VSA analyzes a Veteran’s needs, coordinates and helps them navigate the VAC system to ensure that their needs are met. **VSAs do not take on complex case files.**
 
 **Case Managers**
 
@@ -164,13 +158,9 @@ VAC’s English and French toll-free lines  enable callers to access the Nationa
 <p style="text-align: right">
 <em>- Delivering on Service Excellence Veterans Affairs Canada, 2017</em></p>
 
-
-
 #### 3. VAC Internal Teams
 
 **Service Delivery Branch** - Branch responsible for delivering benefits and services and for providing social and economic support that respond to the needs of Veterans, other clients and their families. The branch also provides services in the areas of:
-
-
 
 *   Field Operations such as area offices
 *   Online Services Group/Directorate (OSG/OSD) - the section within the Service Delivery Branch primarily responsible for My VAC, a Veterans portal to apply for benefits, and some web presence/properties. Currently lead by Janet Nichols (Director and Service Owner for this project).
@@ -179,12 +169,9 @@ VAC’s English and French toll-free lines  enable callers to access the Nationa
 
 This branch is responsible for leading communications initiatives. They work in line with the Communications Policy of the Government of Canada that support the Department’s strategic objectives and priorities. 
 
-
 ### **Chief Financial Officer and Corporate Services**
 
 This branch is responsible for supporting VAC in meeting Government of Canada requirements in areas such as financial stewardship, corporate reporting and key accountabilities. The branch also provides internal corporate services in the areas of:
-
-
 
 *   information technology
 *   access to information and privacy activities (relevant for our design research activities)
@@ -230,7 +217,7 @@ This research  showed that VAC staff throughout the department face difficulty f
 
 ## What was learnt
 
-**1. Not all former military members identify with the term, ‘Veteran’  **
+**1. Not all former military members identify with the term ‘Veteran’**
 
 Younger, modern-day Veterans may not identify with the term, ‘Veteran.’
 
@@ -262,31 +249,29 @@ _"My Vac is great if only they knew about it." -_ Former military member and cur
 
 **5. Veterans need a central point of access for information on benefits**
 
- \
 It can be hard to parse through the information and determine what is actually useful. There are lots of tools but information is fragmented and often not up-to-date. Too much information may have become as much of a problem as too little information can be.
 
-_"It might take you a half-hour; you might miss something." _- VAC call-center agent
+_"It might take you a half-hour; you might miss something."_ - VAC call-center agent
 
-_"We have enough tools. They're stretched really thin and sometimes they're not updated" - _VAC frontline staff
+_"We have enough tools. They're stretched really thin and sometimes they're not updated"_ - VAC frontline staff
 
-**6. Lack of takeaways or references to relevant, useful information **
+**6. Lack of takeaways or references to relevant, useful information**
 
 The call centre generally does not follow up with the veteran on their enquiry or share a takeaway such as emailing a link to a relevant page on the website. The Benefits Navigator online tool doesn’t allow veterans to save or share information with friends or family or their case managers. 
 
-_"What we want to give them is curated and useful" - VAC staff_
+_"What we want to give them is curated and useful"_ - VAC staff
 
 **7. Veterans need an easy way to determine which benefits are relevant to them**
 
 VAC’s current website doesn’t enable the user to get to relevant content by being able to answer two simple questions: who am I? And, what is my goal here? This prevents veterans and frontline staff from exploring what options are available to them.
 
-_“It’s all good stuff, but it’s just more stuff that’s coming to the folks. It’s hard to know                     what relates to me." _- staff from the Veteran Ombudsman 
+_“It’s all good stuff, but it’s just more stuff that’s coming to the folks. It’s hard to know what relates to me."_ - staff from the Veteran Ombudsman 
 
 **8. There is a need for collaboration and vision setting**
 
 There seem to be parallel initiatives ongoing at VAC to collaborate and share priorities. In order to fulfill Veterans needs, medical and otherwise, veterans may need to combine their benefits from VAC, CAF, SISIP (Serviceman's Income Security Insurance Plan) and others provided by government organizations.
 
-_“Bigger problem is that we have to centralize the usability team” - staff from VAC Research Directorate_
-
+_“Bigger problem is that we have to centralize the usability team”_ - staff from VAC Research Directorate
 
 ## Methodology 
 
@@ -309,8 +294,6 @@ To gain a deeper understanding of internal staff members as users within the ben
 
 To familiarize ourselves with VAC and the services it provides, we studied:
 
-
-
 *   VAC’s service performance reports; 
 *   documents outlining strategy; 
 *   plans and priorities for the department; 
@@ -318,8 +301,6 @@ To familiarize ourselves with VAC and the services it provides, we studied:
 *   policy guidelines 
 
 To synthesize all this information, we carried out a mapping exercise using the ‘business model canvas’. The business model canvas is a one page visualization of an organization’s business model operations. (More here: [https://strategyzer.com/canvas/business-model-canvas](https://strategyzer.com/canvas/business-model-canvas)). 
-
- 
 
 **Value Proposition Mapping**
 
@@ -331,8 +312,6 @@ Copies were printed for five teams (including one team participating online from
 
 To learn from those who have undertaken similar exercises to improve government service delivery, we interviewed other government teams:
 
-
-
 *   U.S Department of Veterans Affairs (VA) - VA Center for Innovation 
 *   Ad Hoc - software design and engineering company building government digital services for U.S Veterans Affairs
 *   Veterans' Affairs New Zealand
@@ -341,12 +320,11 @@ To learn from those who have undertaken similar exercises to improve government 
 
 Lessons from part I of discovery research were shared with VAC’s internal teams and senior executives. Our next steps include developing a research plan for part II - interviewing Veterans and studying the benefits structure in greater detail.
 
-
 ## Selected documents and presentations
 
 [Discovery Part I - Presentation](https://docs.google.com/presentation/d/1luPzmW-NDh-PHshZ_15h1UpX8T0jxPWuCHjiVXYZlWo/edit#slide=id.g309946d6ca_0_0)
 
-[PEI Dec’17 - Summary](https://docs.google.com/document/d/1FKddOJPxQgB2MPtc7IVGJ98u4A6cT36uWrE0pTXBYCg/edit#heading=h.9lqfsmfmixwu)
+[PEI Dec 2017 - Summary](https://docs.google.com/document/d/1FKddOJPxQgB2MPtc7IVGJ98u4A6cT36uWrE0pTXBYCg/edit#heading=h.9lqfsmfmixwu)
 
 [Value Proposition Canvas](https://docs.google.com/spreadsheets/d/1B0bt9ewtU9velyQSa-Asq0VyAUBA0tWztnLsMOG9yx8/edit#gid=1421310772)
 
@@ -366,11 +344,11 @@ As human centered design was new to VAC, CDS took the lead on conducting these r
 
 ## What was learnt
 
-**1. VAC’s communications may not be reaching modern-day Veterans. **
+**1. VAC’s communications may not be reaching modern-day Veterans.**
 
-**Stigma **
+**Stigma**
 
-Military culture makes it hard to ask for help, this makes applying for benefits a stigmatized subject, a sign of weakness. The feeling is magnified in new Veterans by the challenge of shifting from following orders and procedures to proactively navigating the VAC system, and having to care for oneself.** **
+Military culture makes it hard to ask for help, this makes applying for benefits a stigmatized subject, a sign of weakness. The feeling is magnified in new Veterans by the challenge of shifting from following orders and procedures to proactively navigating the VAC system, and having to care for oneself.
 
 **Outreach efforts**
 
@@ -381,8 +359,6 @@ Secondly, soon after the release period, some Veterans may be in a difficult fin
 **Myths**
 
 Misconceptions lead Veterans to thinking that VAC is an organization meant to serve them. Some included:
-
-
 
 *   Limited amount of funds available to Veterans 
     *   “There’s only a limited amount of money there, because there’s only so much - why bother with me?”
@@ -401,19 +377,19 @@ Many Veterans cope with their difficulty adjusting to civilian life by turning t
 
 Veterans indicated that the content on the website is hard to understand as it is written for bureaucracy experts, not in plain simple English. Additionally that the content assumes that Veterans should know what they are looking for from VAC. Contrary to this assumption, especially newer, younger Veterans are still figuring out how to shape their lives as civilians and would like the website to help them connect where they are to where they should be. 
 
-**3. Website is complex **
+**3. Website is complex**
 
 Veterans indicated that when they are on the website - they tend to spend more time navigating through pages of information than they would like to spend learning about the benefits that might help them. 
 
 **4. Website improvements are not enough**
 
-The [VAC website](http://veterans.gc.ca)** **is often a Veteran’s first touchpoint for learning about VAC benefits.** **However, Veterans stated that information on the website often isn’t sufficient to help them make the decision to apply for a benefit. Because applying for a benefit is a big decision, they would like information that is suited to their unique circumstances. Some Veterans seek this byphoning the call centre to get specific advice or going to an area office to meet face to face with VAC staff.
+The [VAC website](http://veterans.gc.ca) is often a Veteran’s first touchpoint for learning about VAC benefits. However, Veterans stated that information on the website often isn’t sufficient to help them make the decision to apply for a benefit. Because applying for a benefit is a big decision, they would like information that is suited to their unique circumstances. Some Veterans seek this byphoning the call centre to get specific advice or going to an area office to meet face to face with VAC staff.
 
 **5. Lack of transparency**
 
 Veterans expressed their struggle with a lack of transparency with the benefits process. They have  many concerns about missing key information that could help them in their decision making process and setting expectations are realistic, such as wait times and the amount of paperwork involved. 
 
-Methodology
+## Methodology
 
 **Participant recruitment**
 
@@ -425,7 +401,7 @@ Semi-structured interviews are used to gather focused, qualitative textual data.
 
 **Analysis methods:**
 
-**Grounded theory **
+**Grounded theory**
 
 A methodology that involves the collection, analysis, synthesis and conceptualization of qualitative data for the purpose of constructing meaning from the data. 
 
@@ -433,7 +409,7 @@ A methodology that involves the collection, analysis, synthesis and conceptualiz
 
 A text table with rows and columns arranged to cluster the insights that are related thematically.
 
-**Journey mapping **
+**Journey mapping**
 
 Using the research data, we developed a journey map visualizing the process that a Veteran would go through in order to receive a benefit from VAC.
 
@@ -454,14 +430,12 @@ Interview guide
 
 Interview tips 
 
-[https://docs.google.com/presentation/d/1a_qYVZnC9izoyUXP7dB5eIc8Mj343XiP4ucwNSWqtxQ/edit#slide=id.g34aa961c89_0_5](https://docs.google.com/presentation/d/1a_qYVZnC9izoyUXP7dB5eIc8Mj343XiP4ucwNSWqtxQ/edit#slide=id.g34aa961c89_0_5)
+[https://docs.google.com/presentation/d/1a_qYVZnC9izoyUXP7dB5eIc8Mj343XiP4ucwNSWqtxQ/edit](https://docs.google.com/presentation/d/1a_qYVZnC9izoyUXP7dB5eIc8Mj343XiP4ucwNSWqtxQ/edit)
 
-Discovery: r[esearch presentation](https://docs.google.com/presentation/d/1vAjGZQD6bxIUVCN0bZYMkEy0DbOfMutr5Cofm5nbsgY/edit#slide=id.g380527e6ac_0_109)
+Discovery: [Research presentation](https://docs.google.com/presentation/d/1vAjGZQD6bxIUVCN0bZYMkEy0DbOfMutr5Cofm5nbsgY/edit#slide=id.g380527e6ac_0_109)
 
 
 ## Guidance and resources
-
-
 
 *   Privacy Act Canada
 *   [Public Opinion Research](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-4)
@@ -481,8 +455,6 @@ In the alpha phase the team developed design principles and feature level soluti
 
 **Alpha identified that people use the product for three key functions**
 
-
-
 1. Exploring - For example, a still-serving military member uses the tool to learn about the help they might receive once they have completed their military service.
 2. Assistance for a specific need - For example, a recently retired military member is looking for funding assistance to help them pay for school. 
 3. Assistance for a specific benefit -  For example, the daughter of a Veteran wants to learn more about the Veterans Independence Program to help her parent. 
@@ -490,7 +462,7 @@ In the alpha phase the team developed design principles and feature level soluti
 
 ## Insights
 
-**Guidance **
+**Guidance**
 
 Veterans need a simple introduction on benefits and information on how benefits might help them. This knowledge precedes their use of any tools or functions on the website.
 
@@ -518,11 +490,11 @@ When participants used the tool to learn about relevant benefits, they indicated
 
 The goal for some Veterans was to get a better sense of the cumulative benefits they could receive. Either as a lump sum monetary benefit or the number of services that they may be eligible for, similar to a shopping cart experience.
 
-**Visuals **
+**Visuals**
 
 Veterans expected to see more images and icons to help relate to the information. Too much text was described to make it harder for them to remember all the information.
 
-Methodology
+## Methodology
 
 **Service Design Blueprint**
 
@@ -543,7 +515,7 @@ Snowball sampling<sup> </sup>(or chain sampling, chain-referral sampling, referr
 
 Alpha - insights and decision log
 
-[https://docs.google.com/presentation/d/1G5FnLgOEuJQ_gMeo3UYeP1STlaRW8Hyckjji2-sRHR4/edit#slide=id.g3bb981fedf_0_280](https://docs.google.com/presentation/d/1G5FnLgOEuJQ_gMeo3UYeP1STlaRW8Hyckjji2-sRHR4/edit#slide=id.g3bb981fedf_0_280)
+[https://docs.google.com/presentation/d/1G5FnLgOEuJQ_gMeo3UYeP1STlaRW8Hyckjji2-sRHR4/edit#slide=id.p1](https://docs.google.com/presentation/d/1G5FnLgOEuJQ_gMeo3UYeP1STlaRW8Hyckjji2-sRHR4/edit#slide=id.p1)
 
 Test plan: test session 1
 
@@ -567,7 +539,6 @@ Test plan: test session 4
 Usability testing
 
 [https://cds-snc.github.io/design-research-handbook/usability-testing/](https://cds-snc.github.io/design-research-handbook/usability-testing/)
-
 
 
 # BETA PHASE
@@ -632,7 +603,7 @@ Beta - documentation for test session 4
 
 [https://docs.google.com/presentation/d/1Dj8eP4j30XJXVDg2RWBwv5nfLpxaUcHJDLJCMUWHLuc/edit#slide=id.g4ec0600906_0_490](https://docs.google.com/presentation/d/1Dj8eP4j30XJXVDg2RWBwv5nfLpxaUcHJDLJCMUWHLuc/edit#slide=id.g4ec0600906_0_490)
 
-Other 
+**Other** 
 
 Show & Tell - public showcase
 
