@@ -24,13 +24,13 @@ When users first arrive on the product, they need some simple guidance to find t
 
 Each benefit has been assigned to a category, i.e. emergency funds, medical assistance, or elder care. Users are shown which categories are available and can filter benefits by category to more quickly find ones that meet their needs.
 
+**Viewing example information for what the benefits offer**
+
+Some benefits have a section where people can read examples of what the benefit offers. This is in short, bullet form and helps people gain a better understanding of what the benefit is for.  
+
 **Searching benefits by name or description**
 
-Users can search for benefits from the homepage or from within the benefits directory. Veterans or family members can quickly surface the benefit that meets their need.
-
-**Sorting benefits by popularity**
-
-The benefits list is sorted by popularity by default. With the most popular benefits on top, most users don’t need to wade through the entire list to find what they need.
+People can search for benefits from the homepage or from within the benefits directory. Veterans or family members can quickly surface the benefit that meets their need.
 
 **Saving relevant benefits**
 
@@ -48,6 +48,6 @@ Most benefits have an associated benefit; if you are eligible for one , you are 
 
 Many Veterans go in-person to VAC area offices and having a printed list of relevant benefits jump-starts their conversation with VAC frontline staff. The printed list includes selected filters, the saved benefits, and relevant information for contacting the area offices.
 
-**Locating a VAC area office**
+**Next steps list**
 
-Veterans and their families can locate the closest VAC area office on a map and get directions.
+Depending on the path entered in the guided experience, people are presented with a list of next steps. The next steps are linked to a user path, since the next steps applicable for Veterans can be different than those for organisations. 

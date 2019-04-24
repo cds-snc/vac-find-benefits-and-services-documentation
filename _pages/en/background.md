@@ -22,6 +22,7 @@ The team sometimes writes blog posts about our work:
 * [Moving content from code to cloud](https://medium.com/@canadiandigitalservice/moving-content-from-code-to-cloud-d5ad0f34ce20) by Steve Astels and Stephen McMurtry, Developers
 * [How meeting face to face builds team trust](https://medium.com/@canadiandigitalservice/how-meeting-face-to-face-builds-team-trust-e2bcb4d98159) by Allison Rothmel, Consultant at Veterans Affairs Canada
 * [The sweet spot: when policy empowers design research](https://medium.com/@canadiandigitalservice/the-sweet-spot-when-policy-empowers-design-research-617022b09bd1) by Stevie-Ray Talbot, Policy
+* [How we measure our delivery and why it’s useful](https://medium.com/@canadiandigitalservice/how-we-measure-our-delivery-and-why-its-useful-ef02d7d23b36) by Stevie-Ray Talbot, Policy, and Courtney Claessens, Product Manager
 
 ### Presentations
 

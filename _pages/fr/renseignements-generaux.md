@@ -21,7 +21,8 @@ L’équipe rédige parfois des billets de blogue sur notre travail :
 * [Élaborer un plan de recherche avec cinq questions simples](https://medium.com/@servnumcanadien/%C3%A9laborer-un-plan-de-recherche-avec-cinq-questions-simples-20b16f526b05) par Mithula Naik, chercheuse principale en conception
 * [Déplacer le contenu du code vers le nuage](https://medium.com/@servnumcanadien/d%C3%A9placer-le-contenu-du-code-vers-le-nuage-bcc48848695e) par Steve Astels and Stephen McMurtry, développeurs
 * [Se rencontrer en vrai bâtit la confiance d’une équipe](https://medium.com/@servnumcanadien/se-rencontrer-en-vrai-b%C3%A2tit-la-confiance-dune-%C3%A9quipe-a2630048e462) par Allison Rothmel, consultante à Anciens Combattants Canada
-* [L’accord parfait : quand les politiques renforcent la recherche en conception](https://medium.com/@servnumcanadien/laccord-parfait-quand-les-politiques-renforcent-la-recherche-en-conception-131d208c4ab1) par Stevie-Ray Talbot, Politiques
+* [L’accord parfait : quand les politiques renforcent la recherche en conception](https://medium.com/@servnumcanadien/laccord-parfait-quand-les-politiques-renforcent-la-recherche-en-conception-131d208c4ab1) par Stevie-Ray Talbot, politiques
+* [Comment nous mesurons notre prestation et pourquoi c’est utile](https://medium.com/@servnumcanadien/comment-nous-mesurons-notre-prestation-et-pourquoi-cest-utile-93c100a01eff) par Stevie-Rayu Talbot, politiques, et Courtney Claessens, gestionnaire de produits
 
 ### Présentations
 
