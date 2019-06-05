@@ -41,11 +41,11 @@ The Online Services Directorate at VAC initiated a project to add a 'Benefits at
 *   Michel Doiron, Assistant Deputy Minister, Service Delivery Branch
 
 
-## Lead contacts 
+## Lead contacts
 
 
 
-*   VAC: Farzad Sedghipour, Service Designer, VAC Online Services 
+*   VAC: Farzad Sedghipour, Service Designer, VAC Online Services
 *   CDS: Courtney Claessens, Product Manager, CDS
 
 
@@ -61,11 +61,11 @@ To develop a user-centered service that allows Veterans to browse relevant benef
 
 ## Overview
 
-In December 2017, CDS in partnership with Code for Canada and VAC Online Services began a Discovery Phase to understand the problems facing Veterans in their journey to learning about VAC benefits and services and the challenges they face in applying for them. 
+In December 2017, CDS in partnership with Code for Canada and VAC Online Services began a Discovery Phase to understand the problems facing Veterans in their journey to learning about VAC benefits and services and the challenges they face in applying for them.
 
-Combining agile methodology and human-centred design, the discovery work was divided into two parts. The first part focused on the experiences of different staff groups within VAC and the second part on the experiences of Veterans. Field research was conducted throughout. Data analysis and findings were shared  with the service owners and internal groups at VAC. 
+Combining agile methodology and human-centred design, the discovery work was divided into two parts. The first part focused on the experiences of different staff groups within VAC and the second part on the experiences of Veterans. Field research was conducted throughout. Data analysis and findings were shared  with the service owners and internal groups at VAC.
 
-The discovery phase validated that there is a  decreased uptake of services and that Veterans have a low familiarity with VAC benefits. Findings also informed the development of a minimum viable product (MVP) that would enable Veterans and their family members to quickly determine which of the 40+ benefits are relevant to them, and confidently take their next steps. 
+The discovery phase validated that there is a  decreased uptake of services and that Veterans have a low familiarity with VAC benefits. Findings also informed the development of a minimum viable product (MVP) that would enable Veterans and their family members to quickly determine which of the 40+ benefits are relevant to them, and confidently take their next steps.
 
 The discovery work has received highly positive feedback from VAC’s internal teams and senior executives as a model user research process to improve government service delivery. The discovery process and findings were disseminated by: i) sharing publicly on the CDS blog, ii) live tweeting by team members, iii) a presentation to Minister Scott Brison, President of the Treasury Board Secretariat and Digital Government, , and iv) a Code for Canada event in Toronto with the civic tech community. Finally, other federal teams have expressed interest in learning from the process.
 
@@ -84,11 +84,11 @@ The discovery work has received highly positive feedback from VAC’s internal t
     5. Online Services
     6. Communications
     7. Information Technology
-    8. Field Operations 
+    8. Field Operations
     9. Access to Information and Privacy (ATIP) Request
     10. Research Directorate
 4. Office of the Veterans Ombudsman
-5. External contractors 
+5. External contractors
     11. Code for Canada
     12. Stiff Sentences, Ottawa ON
     13. Thinking Big, Charlottetown PEI
@@ -102,7 +102,7 @@ Any former member of the Canadian Armed Forces who successfully underwent basic 
 
 VAC serves a range of Veteran groups - from WWII Veterans to family and children of recently retired military members. This is a wide range of groups and consequently a wide range of needs. We must begin by clarifying who we are serving as end-users.
 
-VAC serves veteran groups based on types of 
+VAC serves veteran groups based on types of
 
 *   Service
 *   Organization
@@ -139,7 +139,7 @@ A Veterans Service Agent (VSA) takes full responsibility for the service needs o
 
 **Case Managers**
 
-A Case Manager (CM) is a VAC staff member who handles Veterans services needs in complex situations or circumstances. Case managers help Veterans with planning and applying for benefits, and follow up with them nearly every 45 days. Veterans might need case management when they are coping with serious illness or adjusting to a loss such as a career or a loved one. 
+A Case Manager (CM) is a VAC staff member who handles Veterans services needs in complex situations or circumstances. Case managers help Veterans with planning and applying for benefits, and follow up with them nearly every 45 days. Veterans might need case management when they are coping with serious illness or adjusting to a loss such as a career or a loved one.
 
 **Area Office Staff**
 
@@ -167,7 +167,7 @@ VAC’s English and French toll-free lines  enable callers to access the Nationa
 
 **Strategic Oversight and Communications Branch**
 
-This branch is responsible for leading communications initiatives. They work in line with the Communications Policy of the Government of Canada that support the Department’s strategic objectives and priorities. 
+This branch is responsible for leading communications initiatives. They work in line with the Communications Policy of the Government of Canada that support the Department’s strategic objectives and priorities.
 
 ### **Chief Financial Officer and Corporate Services**
 
@@ -192,7 +192,7 @@ This branch is responsible for:
 The Veterans Ombudsman works toward ensuring that the sacrifices of Canada's Veterans and their families are recognized through the provision of services, benefits, and support in a fair, accessible, and timely manner. The Ombudsman is an impartial and independent officer, reporting directly to the Minister of Veterans Affairs Canada. This independence is essential to ensure that our commitment to stakeholders is honored.
 
 
-#### 5. External Groups 
+#### 5. External Groups
 
 **Code for Canada**
 
@@ -200,17 +200,17 @@ Code For Canada is a not for profit organization that pairs up experienced digit
 
 **Stiff Sentences, Ottawa**
 
-Stiff is a communications agency that works with clients in Canada and around the globe to create and manage brands, develop integrated communication strategies and go to market through traditional, digital and social media. VAC has contracted Stiff to work on the redesign of the VAC website and content design of VAC programs and services. 
+Stiff is a communications agency that works with clients in Canada and around the globe to create and manage brands, develop integrated communication strategies and go to market through traditional, digital and social media. VAC has contracted Stiff to work on the redesign of the VAC website and content design of VAC programs and services.
 
 **Thinking Big, PEI**
 
-Thinking Big is a digital services and UX Consulting organization in Charlottetown, PEI, working on the redesign of the My VAC Account and in preparing for VAC’s Web Renewal Initiative as part of the Government of Canada's (GOC) Web Renewal Initiative. 
+Thinking Big is a digital services and UX Consulting organization in Charlottetown, PEI, working on the redesign of the My VAC Account and in preparing for VAC’s Web Renewal Initiative as part of the Government of Canada's (GOC) Web Renewal Initiative.
 
 **INTERNAL SERVICE RESEARCH**
 
 **Overview**
 
-Part I of the discovery phase validated the existing insight that Veterans have a decreased uptake of services and a low familiarity with VAC benefits. This process involved i) interviewing staff and organizational teams across the benefits process, ii) mapping VAC’s organizational goals, iii) studying the structure of the VAC benefits, iv) studying VAC’s IT infrastructure and web presence, and v) reading VAC’s reports on patron-focused research. 
+Part I of the discovery phase validated the existing insight that Veterans have a decreased uptake of services and a low familiarity with VAC benefits. This process involved i) interviewing staff and organizational teams across the benefits process, ii) mapping VAC’s organizational goals, iii) studying the structure of the VAC benefits, iv) studying VAC’s IT infrastructure and web presence, and v) reading VAC’s reports on patron-focused research.
 
 This research  showed that VAC staff throughout the department face difficulty finding a single source of information regarding the benefits available to Veterans. These staff include case managers, front-line staff from call centre, benefit application adjudicators, benefit program managers, and the Veterans Ombudsman’s office.
 
@@ -221,13 +221,13 @@ This research  showed that VAC staff throughout the department face difficulty f
 
 Younger, modern-day Veterans may not identify with the term, ‘Veteran.’
 
-_"A lot of people don't believe they can apply for benefits...like reservists, people that were never deployed." _- staff at The Royal Canadian Legion. 
+_"A lot of people don't believe they can apply for benefits...like reservists, people that were never deployed."_ - staff at The Royal Canadian Legion.
 
-**The Royal Canadian Legion** is a non-profit Canadian organization serving former military members (veterans' organization). 
+**The Royal Canadian Legion** is a non-profit Canadian organization serving former military members (veterans' organization).
 
 **2. Eligibility of benefits is not well understood**
 
-Figuring out which benefits are relevant based on a veteran’s profile can be complex. It’s hard to determine at the outset what someone is eligible for. 
+Figuring out which benefits are relevant based on a veteran’s profile can be complex. It’s hard to determine at the outset what someone is eligible for.
 
 _"One-on-one briefing with someone who is knowledgeable is the most effective way to determine what members are eligible for and how to proceed."_ - staff at Royal Canadian Legion
 
@@ -237,13 +237,13 @@ _"You're surprised at the outcome...I never know if it's going to go through."_ 
 
 Veterans’ needs during the period of transition from the military and thereafter can be very complex. The challenges faced are both physical and mental. Many of their health conditions are also degenerative. The report ‘[Life After Service Survey 2016](https://www.veterans.gc.ca/eng/about-vac/research/research-directorate/publications/reports/lass-2016)’ highlights these conditions further:
 
-“Compared to those with earlier releases, recently-released Veterans have higher rates of service in Afghanistan, poor self-rated mental health and less than a total of 10 years of military service; all factors associated with difficult adjustment to civilian life. Veterans reported chronic conditions, including arthritis (29%), depression (21%), anxiety (15%), and post traumatic stress disorder (PTSD) (14%).” 
+“Compared to those with earlier releases, recently-released Veterans have higher rates of service in Afghanistan, poor self-rated mental health and less than a total of 10 years of military service; all factors associated with difficult adjustment to civilian life. Veterans reported chronic conditions, including arthritis (29%), depression (21%), anxiety (15%), and post traumatic stress disorder (PTSD) (14%).”
 
 Any solution to these problems must build on and bring together past initiatives, and needs to be implemented in a way that can reach Veterans.  
 
 **4. Veterans need an increased awareness of VAC benefits and services**
 
-This validates another established finding that there is a need to increase awareness of VAC services. Research tells us that most veterans are aware only of 3-4 benefits out of 40+. There are many veterans who need VAC services and aren't currently accessing them. 
+This validates another established finding that there is a need to increase awareness of VAC services. Research tells us that most veterans are aware only of 3-4 benefits out of 40+. There are many veterans who need VAC services and aren't currently accessing them.
 
 _"My Vac is great if only they knew about it." -_ Former military member and current staff of VAC referring to the My VAC self service online portal.
 
@@ -257,7 +257,7 @@ _"We have enough tools. They're stretched really thin and sometimes they're not 
 
 **6. Lack of takeaways or references to relevant, useful information**
 
-The call centre generally does not follow up with the veteran on their enquiry or share a takeaway such as emailing a link to a relevant page on the website. The Benefits Navigator online tool doesn’t allow veterans to save or share information with friends or family or their case managers. 
+The call centre generally does not follow up with the veteran on their enquiry or share a takeaway such as emailing a link to a relevant page on the website. The Benefits Navigator online tool doesn’t allow veterans to save or share information with friends or family or their case managers.
 
 _"What we want to give them is curated and useful"_ - VAC staff
 
@@ -265,7 +265,7 @@ _"What we want to give them is curated and useful"_ - VAC staff
 
 VAC’s current website doesn’t enable the user to get to relevant content by being able to answer two simple questions: who am I? And, what is my goal here? This prevents veterans and frontline staff from exploring what options are available to them.
 
-_“It’s all good stuff, but it’s just more stuff that’s coming to the folks. It’s hard to know what relates to me."_ - staff from the Veteran Ombudsman 
+_“It’s all good stuff, but it’s just more stuff that’s coming to the folks. It’s hard to know what relates to me."_ - staff from the Veteran Ombudsman
 
 **8. There is a need for collaboration and vision setting**
 
@@ -273,46 +273,46 @@ There seem to be parallel initiatives ongoing at VAC to collaborate and share pr
 
 _“Bigger problem is that we have to centralize the usability team”_ - staff from VAC Research Directorate
 
-## Methodology 
+## Methodology
 
 **Desk research**
 
-We studied research conducted by VAC and other organizations on the topics of 
+We studied research conducted by VAC and other organizations on the topics of
 
 
 
 *   Veterans in Canada; and
-*   VAC benefits and services 
+*   VAC benefits and services
 
-Some sources included reports and papers from the VAC Research Directorate (e.g. Life After Service Studies), surveys and studies from the Department of Statistics Canada, Department of National Defence, Public Opinion Research on Veterans in Canada (Library and Archives Canada) and the Auditor General of Canada (2013 Fall Report of the Auditor General of Canada). 
+Some sources included reports and papers from the VAC Research Directorate (e.g. Life After Service Studies), surveys and studies from the Department of Statistics Canada, Department of National Defence, Public Opinion Research on Veterans in Canada (Library and Archives Canada) and the Auditor General of Canada (2013 Fall Report of the Auditor General of Canada).
 
 **Staff interviews**
 
-To gain a deeper understanding of internal staff members as users within the benefits process, we conducted in-person interviews in Charlottetown, Prince Edward Island (PEI), VAC headquarters. Individuals and teams were interviewed, including area office staff, veteran service agents, case managers and national call centre staff. 
+To gain a deeper understanding of internal staff members as users within the benefits process, we conducted in-person interviews in Charlottetown, Prince Edward Island (PEI), VAC headquarters. Individuals and teams were interviewed, including area office staff, veteran service agents, case managers and national call centre staff.
 
 **Business Model Mapping**
 
 To familiarize ourselves with VAC and the services it provides, we studied:
 
-*   VAC’s service performance reports; 
-*   documents outlining strategy; 
-*   plans and priorities for the department; 
+*   VAC’s service performance reports;
+*   documents outlining strategy;
+*   plans and priorities for the department;
 *   past projects;
-*   policy guidelines 
+*   policy guidelines
 
-To synthesize all this information, we carried out a mapping exercise using the ‘business model canvas’. The business model canvas is a one page visualization of an organization’s business model operations. (More here: [https://strategyzer.com/canvas/business-model-canvas](https://strategyzer.com/canvas/business-model-canvas)). 
+To synthesize all this information, we carried out a mapping exercise using the ‘business model canvas’. The business model canvas is a one page visualization of an organization’s business model operations. (More here: [https://strategyzer.com/canvas/business-model-canvas](https://strategyzer.com/canvas/business-model-canvas)).
 
 **Value Proposition Mapping**
 
 Following the business model canvas session, we held a workshop with the VAC staff (in PEI) using the ‘value proposition canvas’ as an artifact and technique to elicit insights on the value of VAC benefits for Veterans. The ‘value proposition canvas’ is a visual artifact and design technique to help teams understand how their product or service helps solve customers' problems (relevancy), and delivers specific benefits (quantified value) to them.
 
-Copies were printed for five teams (including one team participating online from the regional offices) to complete the facilitated exercise. The workshop ran for 3 hours and helped us gather information on staff pain points; if they feel empowered or disempowered by their roles and their thoughts and assumptions on the needs of Veterans. 
+Copies were printed for five teams (including one team participating online from the regional offices) to complete the facilitated exercise. The workshop ran for 3 hours and helped us gather information on staff pain points; if they feel empowered or disempowered by their roles and their thoughts and assumptions on the needs of Veterans.
 
 **Expert interviews**
 
 To learn from those who have undertaken similar exercises to improve government service delivery, we interviewed other government teams:
 
-*   U.S Department of Veterans Affairs (VA) - VA Center for Innovation 
+*   U.S Department of Veterans Affairs (VA) - VA Center for Innovation
 *   Ad Hoc - software design and engineering company building government digital services for U.S Veterans Affairs
 *   Veterans' Affairs New Zealand
 
@@ -335,7 +335,7 @@ Lessons from part I of discovery research were shared with VAC’s internal team
 
 ## Overview
 
-Part II of the discovery phase focused on interviewing Veterans. The goal of this work was to understand why the current system of benefits often seems inaccessible to Veterans. 
+Part II of the discovery phase focused on interviewing Veterans. The goal of this work was to understand why the current system of benefits often seems inaccessible to Veterans.
 
 Using snowball recruitment (or chain referral recruitment) we were able to connect with over 75 informal recruiters. They in-turn nominated Veterans who met our participant criteria for the interviews. We received over 40 Veteran nominations within the first 3 weeks and conducted a total of 9 semi-structured, hour-long interviews with Veterans. Over 200 pages of notes were generated. All members of the delivery team, including designers and developers, participated in this research.
 
@@ -360,7 +360,7 @@ Secondly, soon after the release period, some Veterans may be in a difficult fin
 
 Misconceptions lead Veterans to thinking that VAC is an organization meant to serve them. Some included:
 
-*   Limited amount of funds available to Veterans 
+*   Limited amount of funds available to Veterans
     *   “There’s only a limited amount of money there, because there’s only so much - why bother with me?”
 *   Perception of gaming the system
     *   “If I apply for benefits, without having critical physical conditions, I’m going to be perceived as someone gaming the system.”
@@ -375,11 +375,11 @@ Many Veterans cope with their difficulty adjusting to civilian life by turning t
 
 **2. Hard to relate to website content**
 
-Veterans indicated that the content on the website is hard to understand as it is written for bureaucracy experts, not in plain simple English. Additionally that the content assumes that Veterans should know what they are looking for from VAC. Contrary to this assumption, especially newer, younger Veterans are still figuring out how to shape their lives as civilians and would like the website to help them connect where they are to where they should be. 
+Veterans indicated that the content on the website is hard to understand as it is written for bureaucracy experts, not in plain simple English. Additionally that the content assumes that Veterans should know what they are looking for from VAC. Contrary to this assumption, especially newer, younger Veterans are still figuring out how to shape their lives as civilians and would like the website to help them connect where they are to where they should be.
 
 **3. Website is complex**
 
-Veterans indicated that when they are on the website - they tend to spend more time navigating through pages of information than they would like to spend learning about the benefits that might help them. 
+Veterans indicated that when they are on the website - they tend to spend more time navigating through pages of information than they would like to spend learning about the benefits that might help them.
 
 **4. Website improvements are not enough**
 
@@ -387,23 +387,23 @@ The [VAC website](http://veterans.gc.ca) is often a Veteran’s first touchpoint
 
 **5. Lack of transparency**
 
-Veterans expressed their struggle with a lack of transparency with the benefits process. They have  many concerns about missing key information that could help them in their decision making process and setting expectations are realistic, such as wait times and the amount of paperwork involved. 
+Veterans expressed their struggle with a lack of transparency with the benefits process. They have  many concerns about missing key information that could help them in their decision making process and setting expectations are realistic, such as wait times and the amount of paperwork involved.
 
 ## Methodology
 
 **Participant recruitment**
 
-Snowball sampling<sup> </sup>(or chain sampling, chain-referral sampling, referral sampling) was used for the discovery phase. Snowball sampling is a non-probability sampling technique where existing study subjects recruit future subjects from among their acquaintances. Thus the sample group is said to grow like a rolling snowball. 
+Snowball sampling<sup> </sup>(or chain sampling, chain-referral sampling, referral sampling) was used for the discovery phase. Snowball sampling is a non-probability sampling technique where existing study subjects recruit future subjects from among their acquaintances. Thus the sample group is said to grow like a rolling snowball.
 
 **Semi structured interviews**
 
-Semi-structured interviews are used to gather focused, qualitative textual data. This method offers a balance between the flexibility of an open-ended interview and the focus of a structured ethnographic survey. 
+Semi-structured interviews are used to gather focused, qualitative textual data. This method offers a balance between the flexibility of an open-ended interview and the focus of a structured ethnographic survey.
 
 **Analysis methods:**
 
 **Grounded theory**
 
-A methodology that involves the collection, analysis, synthesis and conceptualization of qualitative data for the purpose of constructing meaning from the data. 
+A methodology that involves the collection, analysis, synthesis and conceptualization of qualitative data for the purpose of constructing meaning from the data.
 
 **Conceptually clustered matrix**
 
@@ -415,7 +415,7 @@ Using the research data, we developed a journey map visualizing the process that
 
 **Reporting**
 
-Insights were presented in a powerpoint presentation outlining key insights and proposed solutions for moving ahead. 
+Insights were presented in a powerpoint presentation outlining key insights and proposed solutions for moving ahead.
 
 
 ## Documents and presentations
@@ -428,7 +428,7 @@ Interview guide
 
 [https://docs.google.com/document/d/18ylT425JgygPQCc-zBomJPQxu6FpcA6IpiOizseltas/edit](https://docs.google.com/document/d/18ylT425JgygPQCc-zBomJPQxu6FpcA6IpiOizseltas/edit)
 
-Interview tips 
+Interview tips
 
 [https://docs.google.com/presentation/d/1a_qYVZnC9izoyUXP7dB5eIc8Mj343XiP4ucwNSWqtxQ/edit](https://docs.google.com/presentation/d/1a_qYVZnC9izoyUXP7dB5eIc8Mj343XiP4ucwNSWqtxQ/edit)
 
@@ -440,7 +440,7 @@ Discovery: [Research presentation](https://docs.google.com/presentation/d/1vAjGZ
 *   Privacy Act Canada
 *   [Public Opinion Research](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-4)
     *   [User Research Guidance](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-4)
-*   New Veterans Charter, 2006 
+*   New Veterans Charter, 2006
 *   Education and Training Benefit, 2018
 
 
@@ -448,7 +448,7 @@ Discovery: [Research presentation](https://docs.google.com/presentation/d/1vAjGZ
 
 **Overview**
 
-In the alpha phase the team developed design principles and feature level solutions towards addressing the needs elicited from discovery. The end result was a successful minimum viable product that helped Veterans, still serving military members and their families find relevant benefits to meet their needs. The alpha phase began in July and concluded in October, 2018. 
+In the alpha phase the team developed design principles and feature level solutions towards addressing the needs elicited from discovery. The end result was a successful minimum viable product that helped Veterans, still serving military members and their families find relevant benefits to meet their needs. The alpha phase began in July and concluded in October, 2018.
 
 
 ## What was learnt
@@ -456,8 +456,8 @@ In the alpha phase the team developed design principles and feature level soluti
 **Alpha identified that people use the product for three key functions**
 
 1. Exploring - For example, a still-serving military member uses the tool to learn about the help they might receive once they have completed their military service.
-2. Assistance for a specific need - For example, a recently retired military member is looking for funding assistance to help them pay for school. 
-3. Assistance for a specific benefit -  For example, the daughter of a Veteran wants to learn more about the Veterans Independence Program to help her parent. 
+2. Assistance for a specific need - For example, a recently retired military member is looking for funding assistance to help them pay for school.
+3. Assistance for a specific benefit -  For example, the daughter of a Veteran wants to learn more about the Veterans Independence Program to help her parent.
 
 
 ## Insights
@@ -468,15 +468,15 @@ Veterans need a simple introduction on benefits and information on how benefits 
 
 **Positive communication**
 
-The incentives to learn and apply for a benefit is greater when the message is welcoming and positive. Painting a hopeful scenario is important for those who are dealing with stress, medical conditions and disabilities. 
+The incentives to learn and apply for a benefit is greater when the message is welcoming and positive. Painting a hopeful scenario is important for those who are dealing with stress, medical conditions and disabilities.
 
 **Clarity and purpose**
 
-The objective and function of this tool was unclear to some participants. The product name and landing page content must communicate,  in a simple and easy manner, what the tool can help Veterans achieve. 
+The objective and function of this tool was unclear to some participants. The product name and landing page content must communicate,  in a simple and easy manner, what the tool can help Veterans achieve.
 
 **User flow**
 
-The path taken by participants during usability tests indicated that users can be unsure of why they performed certain actions and often returned to their previous actions in order to gain confidence that they’re indeed on the right path. 
+The path taken by participants during usability tests indicated that users can be unsure of why they performed certain actions and often returned to their previous actions in order to gain confidence that they’re indeed on the right path.
 
 **Simple and easy to understand**
 
@@ -498,11 +498,11 @@ Veterans expected to see more images and icons to help relate to the information
 
 **Service Design Blueprint**
 
-The service blueprint helps us to understand a service process from an end to end perspective - if we are studying the process of veterans applying for their benefits then the blueprint captures this with the veterans journey, their front end interactions and the backstage interactions from the department. 
+The service blueprint helps us to understand a service process from an end to end perspective - if we are studying the process of veterans applying for their benefits then the blueprint captures this with the veterans journey, their front end interactions and the backstage interactions from the department.
 
 **Usability testing**
 
-A total of 4 moderated usability testing sessions were completed during the alpha phase. The tool was tested with a total of 16 persons, including Veterans, still serving military members and their family members. 
+A total of 4 moderated usability testing sessions were completed during the alpha phase. The tool was tested with a total of 16 persons, including Veterans, still serving military members and their family members.
 
 Test sessions were conducted in Ottawa at the CDS office or local coffee shops. Remote tests were also conducted with persons outside the NCR location.  
 
@@ -546,19 +546,17 @@ Usability testing
 
 **Overview**
 
-After building an MVP in the alpha phase, research in the beta phase focused on improving the product with regular usability testing. 
+After building an MVP in the alpha phase, research in the beta phase focused on improving the product with regular usability testing.
 
-An integral part of the beta phase was for the CDS delivery team to build capacity and onboard a multi-disciplinary product delivery team from VAC (based out of VAC Headquarters in Charlottetown, Prince Edward Island). For research, this meant recruiting a design or UX researcher with applied research skills and onboarding them to understand the progress of the product and team thus far. 
+An integral part of the beta phase was for the CDS delivery team to build capacity and onboard a multi-disciplinary product delivery team from VAC (based out of VAC Headquarters in Charlottetown, Prince Edward Island). For research, this meant recruiting a design or UX researcher with applied research skills and onboarding them to understand the progress of the product and team thus far.
 
-Having successfully been onboarded, Emily Coffin took over the team's research practice. This included designing test plans, conducting field research and analysis, sharing insights and particularly in bringing the other team members along for the research journey. The goal was met to empower the VAC team (and therein the VAC department) to continue the work with the principles and practices of agile development and human centered design. 
+Having successfully been onboarded, Emily Coffin took over the team's research practice. This included designing test plans, conducting field research and analysis, sharing insights and particularly in bringing the other team members along for the research journey. The goal was met to empower the VAC team (and therein the VAC department) to continue the work with the principles and practices of agile development and human centered design.
 
-Another important highlight during the beta phase was conducting a usability testing session entirely in French with Francophone Canadians. All federal services are mandated to be provided in both official languages, so testing products in French and English is integral to achieving good product outcomes. Due to the shortage of French speakers from the product team, volunteers from the broader CDS organization were mentored and trained to moderate the usability tests and participate as note-takers. 
+Another important highlight during the beta phase was conducting a usability testing session entirely in French with Francophone Canadians. All federal services are mandated to be provided in both official languages, so testing products in French and English is integral to achieving good product outcomes. Due to the shortage of French speakers from the product team, volunteers from the broader CDS organization were mentored and trained to moderate the usability tests and participate as note-takers.
 
-[paragraph on main results]
+Results from the usability tests conducted in French identified similar usability issues to those found  in English testing. However, French speaking participants completed fewer tasks than english speaking participants, and reported a lower confidence level. This could be due to language and cultural differences. Another explanation for the difference could be that the French moderator was less experienced in conducting the usability tests. However, these are hypotheses that would require further study to validate.
 
-Results from the usability tests conducted in French identified similar usability issues to those found  in English testing. However, French speaking participants completed fewer tasks than english speaking participants, and reported a lower confidence level. This could be due to language and cultural differences. Another explanation for the difference could be that the French moderator was less experienced in conducting the usability tests. However, these are hypotheses that would require further study to validate. 
-
-Research in the beta phase was also conducted with frontline staff members from VAC area offices (Ottawa, Gatineau and Halifax) as well as the NCCN office in Halifax. As frontline staff work closely with Veterans to help them apply for benefits, the tool is useful as a resource for them to direct Veterans towards. Research insights confirm that staff are experts on the subject of VAC benefits and services and have lower needs to directly benefit from using the tool. However in sharing the tool with the Veterans they serve, staff members can be of greater help by answering their clients’ better informed, personalized questions. 
+Research in the beta phase was also conducted with frontline staff members from VAC area offices (Ottawa, Gatineau and Halifax) as well as the NCCN office in Halifax. As frontline staff work closely with Veterans to help them apply for benefits, the tool is useful as a resource for them to direct Veterans towards. Research insights confirm that staff are experts on the subject of VAC benefits and services and have lower needs to directly benefit from using the tool. However in sharing the tool with the Veterans they serve, staff members can be of greater help by answering their clients’ better informed, personalized questions.
 
 
 ## Methodology
@@ -569,13 +567,13 @@ A total of 4 moderated usability testing sessions were completed during the alph
 
 **Participant recruitment:**
 
-Beta test sessions 1, 2, and 3 were conducted inside VAC Area Offices located in Ottawa, Halifax and Gatineau respectively. Beta test session 4 was conducted in Petawawa, Ontario, out of recreational and community centres. 
+Beta test sessions 1, 2, and 3 were conducted inside VAC Area Offices located in Ottawa, Halifax and Gatineau respectively. Beta test session 4 was conducted in Petawawa, Ontario, out of recreational and community centres.
 
-Veterans, still-serving military members and their family members were intercepted at these locations and requested to volunteer to participate. People were approached only once they had completed the tasks they come to the area office for. 
+Veterans, still-serving military members and their family members were intercepted at these locations and requested to volunteer to participate. People were approached only once they had completed the tasks they come to the area office for.
 
-If the moderator received a person's full consent to participate, they were guided into a comfortable, quiet room in the area office to begin their test session. 
+If the moderator received a person's full consent to participate, they were guided into a comfortable, quiet room in the area office to begin their test session.
 
-After completing the test, participants were thanked and directed to meet with a frontline staff member before they exited the premises. Consent forms and privacy documents were shared with them to take back. 
+After completing the test, participants were thanked and directed to meet with a frontline staff member before they exited the premises. Consent forms and privacy documents were shared with them to take back.
 
 **References and presentations**
 
@@ -587,7 +585,7 @@ Product evaluation summary
 
 [https://drive.google.com/open?id=1dWsLARRpgehK-bnV2nLZcWOkSsrCjyz9ctV7RnWeraE](https://drive.google.com/open?id=1dWsLARRpgehK-bnV2nLZcWOkSsrCjyz9ctV7RnWeraE)
 
-Beta - documentation for test session 1 
+Beta - documentation for test session 1
 
 [https://drive.google.com/open?id=1z6KdHZQJm8hgL8h7QMFKqrY2bmo5GDmPVLr2UojJMec](https://drive.google.com/open?id=1z6KdHZQJm8hgL8h7QMFKqrY2bmo5GDmPVLr2UojJMec)
 
@@ -603,7 +601,7 @@ Beta - documentation for test session 4
 
 [https://docs.google.com/presentation/d/1Dj8eP4j30XJXVDg2RWBwv5nfLpxaUcHJDLJCMUWHLuc/edit#slide=id.g4ec0600906_0_490](https://docs.google.com/presentation/d/1Dj8eP4j30XJXVDg2RWBwv5nfLpxaUcHJDLJCMUWHLuc/edit#slide=id.g4ec0600906_0_490)
 
-**Other** 
+**Other**
 
 Show & Tell - public showcase
 
