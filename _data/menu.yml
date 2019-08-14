@@ -23,9 +23,6 @@ en:
   contributing:
     name: "Contributing and open source"
     url: "/contributing/"
-  changelog:
-    name: "Changelog"
-    url: "/changelog/"
   contact:
     name: "Contact"
     url: "/contact/"
@@ -54,9 +51,6 @@ fr:
   contributing:
     name: "Contribution et source ouverte"
     url: "/contribution/"
-  changelog: 
-    name: "Journal des modifications"
-    url: "/journal-des-modifications/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
