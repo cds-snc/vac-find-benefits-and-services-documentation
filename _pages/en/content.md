@@ -10,4 +10,4 @@ Descriptions of benefits exist in many places: the VAC website, existing tools, 
 
 The alpha prototype originally used descriptions from an existing tool, Benefits Navigator, but they proved to be too long for at-a-glance use. Informed by user research (with both Veterans and frontline staff), CDS collaborated with VAC Online Services and the VAC Communications and Outreach Renewal Initiative to create one-line descriptions for the 38 benefits included in the alpha product. Testing was conducted to ensure Veterans can connect their need to a benefit and to ensure that the descriptions were free of unfamiliar or uncommon words. The words used in the descriptions come directly from Veterans themselves.
 
-[Learn more](https://github.com/cds-snc/vac-benefits-directory/wiki/Content-strategy-and-design) about the content principles, strategy, and how CDS conducted the content workshops.
+[Learn more](https://github.com/veteransaffairscanada/vac-benefits-directory/wiki/Content-strategy-and-design) about the content principles, strategy, and how CDS conducted the content workshops.
